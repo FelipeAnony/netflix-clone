@@ -8,6 +8,6 @@
   This project is a clone of the Netflix homepage. It uses the TMDB API as the data source for the page. Fully responsive and functional on the most diverse screen sizes and devices.
 </p>
 <p>
-Made solely for educational purposes for practicing React.JS. Movies source by <a href='https://www.themoviedb.org/' target='_blank'>The Movie DB</a>.
+Made solely for educational purposes for practicing React.JS. Movies source by <a href='https://www.themoviedb.org/' target='blank'>The Movie DB</a>.
 </p>
 
